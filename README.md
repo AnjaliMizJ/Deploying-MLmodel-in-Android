@@ -28,7 +28,7 @@ After creating, the required layout to get image of handwritten number in androi
         
 Below is the vedio showing the final veiw of the result  of the project:
 
-![Output](Screenrecorder.mp4)
+[![Output](Screenrecorder.mp4)]
 
 
 
