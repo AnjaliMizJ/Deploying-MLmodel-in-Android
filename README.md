@@ -1,5 +1,7 @@
 # Deploying-MLmodel-in-Android
 
+A small attempt to deploy the trained model of hand-written digit recognizer into android using Java.
+
 -- After the process of training model and evaluation and getting the desired accuracy saved the model using tflite as "digit.tflite" in the specific location. 
 
 <h2>In android</h2>
@@ -28,8 +30,7 @@ After creating, the required layout to get image of handwritten number in androi
         
 Below is the vedio showing the final veiw of the result  of the project:
 
-[![Output](Screenrecorder.mp4)]
-
+![Output](Screenrecorder.gif)
 
 
 
