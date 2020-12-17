@@ -1,4 +1,4 @@
-#used platform is spider
+# used platform is spider
 # TensorFlow and tf.keras
 import tensorflow as tf
 from tensorflow import keras
